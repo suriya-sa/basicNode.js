@@ -1,0 +1,15 @@
+{
+  "name": "nodejsbasic",
+  "version": "1.0.0",
+  "description": "nodejs for beginer",
+  "main": "NodejsBasic/7.web-server/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"nodemon ./bin/www"
+  },
+  "author": "suriya-dev",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
